@@ -1,11 +1,11 @@
 import React from "react";
 import Nav from "./Nav";
 import "./App.css";
-import About from "./About";
-import Contact from "./Contact";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Header from "./Header";
-import Services from "./Services";
+import Header from "./homePage/Header";
+import Services from "./homePage/Services";
 
 function App() {
   return (
