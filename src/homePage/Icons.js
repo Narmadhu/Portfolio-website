@@ -6,17 +6,17 @@ const Icons = () => {
   return (
     <div className="row">
       <div>
-        <FaMobile className="icon" />
+        <FaMobile id="icon" />
         <h4>Responsive </h4>
         <p>Looks great on all devices</p>
       </div>
       <div>
-        <FaPen className="icon" />
+        <FaPen id="icon" />
         <h4>Redesign</h4>
         <p>Wind up with new website</p>
       </div>
       <div>
-        <FaStar className="icon" />
+        <FaStar id="icon" />
         <h4>Featured</h4>
         <p>Website with key features</p>
       </div>

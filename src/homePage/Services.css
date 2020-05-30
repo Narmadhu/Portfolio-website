@@ -24,11 +24,11 @@
   justify-content: space-around;
   align-items: center;
 }
-.icon {
+#icon {
   background-color: cornflowerblue;
-  width: 4rem;
-  height: 4rem;
-  padding: 30px;
+  width: 6rem;
+  height: 6rem;
+  padding: 20px;
   border-radius: 50%;
   color: white;
 }
